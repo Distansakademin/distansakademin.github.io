@@ -58,4 +58,4 @@ Vi erbjuder kompletta kurser i programmering flera programmeringsspråk för att
 - <a href="https://www.linkedin.com/in/danielfransen//"  target="_blank">LinkedIn • Daniel Fransen</a>
 - <a href="https://www.instagram.com/fransend/"  target="_blank">Instagram • Daniel Fransen</a>
 - [daniel.fransen@distansakademin.se](mailto:daniel.fransen@distansakademin.se)
-- 076-323 74 94
+- 076-338 15 77
