@@ -16,12 +16,14 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [HTML & CSS](./html-css/1-intro.md)
 - [JavaScript](./javascript/1-intro.md)
 
-## Övningar och projektidéer
+## Länkar, övningar och projektidéer
 
 - [Övningar Typescript](./ovningar/typescript.md)
 - [Projektidéer fullstack](./artiklar/fullstack-projekt.md)
 - [Projektidéer frontend](./artiklar/frontend-js-projekt.md)
+- [Datasets](./artiklar/datasets.md)
 - [Tjäna pengar](./artiklar/tjana-pengar.md)
+
 
 **Rapportera eventuella fel till mailadressen längst ner på sidan.**
 
