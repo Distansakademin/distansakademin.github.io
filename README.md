@@ -23,6 +23,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [Projektidéer frontend](./artiklar/frontend-js-projekt.md)
 - [Datasets](./artiklar/datasets.md)
 - [Tjäna pengar](./artiklar/tjana-pengar.md)
+- [Kodexempel](./kodexempel/index.md)
 
 
 **Rapportera eventuella fel till mailadressen längst ner på sidan.**
