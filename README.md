@@ -23,6 +23,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [Projektidéer frontend](./artiklar/frontend-js-projekt.md)
 - [Datasets](./artiklar/datasets.md)
 - [Tjäna pengar](./artiklar/tjana-pengar.md)
+- [Typescript MongoDB Rest-API](./artiklar/typescript-mongodb-rest-api.md)
 - [Kodexempel](./kodexempel/index.md)
 
 
