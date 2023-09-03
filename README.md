@@ -19,6 +19,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 ## Länkar, övningar och projektidéer
 
 - [Övningar Typescript](./ovningar/typescript.md)
+- [Övningar Java](./ovningar/java.md)
 - [Projektidéer fullstack](./artiklar/fullstack-projekt.md)
 - [Projektidéer frontend](./artiklar/frontend-js-projekt.md)
 - [Datasets](./artiklar/datasets.md)
