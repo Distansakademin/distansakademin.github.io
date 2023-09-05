@@ -1,0 +1,229 @@
+# Html demo 2 colums
+
+## Important parts
+
+### HTML & CSS
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        img {
+            max-width: 100%;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            max-width: 1200px;
+            margin: 2em auto;
+        }
+
+        .col1,
+        .col2 {
+            padding: 1em;
+            background: rgba(255, 255, 255, 0.5);
+            border-radius: 0.5em;
+        }
+
+        .col1 { /* left */
+            width: 25%;
+            margin-right: 1em;
+        }
+
+        .col2 {
+            width: 75%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="col1">
+            <img src="/assets/alien.jfif" alt="" class="profile-img">
+
+            <h2>Skills</h2>
+
+            <ul>
+                <li>...</li>
+            </ul>
+        </div>
+
+        <div class="col2">
+            <h1>Linus Rudbeck</h1>
+
+            <p>...</p>
+
+            <h2>Education</h2>
+
+            <ul>
+                <li>...</li>
+            </ul>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+```
+
+## All code
+
+### All HTML
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="col1">
+            <img src="/assets/alien.jfif" alt="" class="profile-img">
+            <h2>Skills</h2>
+
+            <ul>
+                <li>Web development</li>
+                <li>Web design</li>
+                <li>Graphic design</li>
+                <li>Video editing</li>
+                <li>Photography</li>
+            </ul>
+        </div>
+
+        <div class="col2">
+            <h1>Linus Rudbeck</h1>
+
+            <p>
+                I am a guy from Sweden. I have been working with web development for about 3 years now. I
+                have been working with HTML, CSS, JavaScript, PHP, SQL, Python and C#. I have also been working with
+                graphic design for about 5 years now. I have been working with Adobe Photoshop, Adobe Illustrator, Adobe
+                InDesign, Adobe After Effects and Adobe Premiere Pro. I have also been working with photography for
+                about 5 years now. I have been working with Adobe Lightroom and Adobe Photoshop. I have also been
+                working with video editing for about 5 years now. I have been working with Adobe Premiere Pro, Adobe
+                After Effects and Adobe Photoshop. I have also been working with 3D modeling for about 2 years now. I
+                have been working with Blender and Cinema 4D.
+            </p>
+
+            <h2>Education</h2>
+
+            <ul>
+                <li>Software engineering (2013-2020)</li>
+                <li>Web development (2020-2023)</li>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+```
+
+### All CSS
+
+```css
+@keyframes futuristicGradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(45deg, #ff00cc, #3333ff, #00ffcc);
+    background-size: 200% 200%;
+    animation: futuristicGradient 2s linear alternate infinite;
+    color: white;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 1.5em 0 0.5em;
+}
+
+
+img {
+    max-width: 100%;
+    border-radius: 0.5em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 2em auto;
+}
+
+.col1,
+.col2 {
+    padding: 1em;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 0.5em;
+}
+
+.col1 { /* left */
+    width: 25%;
+    margin-right: 1em;
+}
+
+.col2 {
+    width: 75%;
+}
+
+
+p {
+    font-size: 1em;
+    margin-top: 20px;
+    line-height: 1.5em;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 0.5em;
+}
+```
