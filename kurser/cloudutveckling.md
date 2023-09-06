@@ -26,3 +26,5 @@
 ## Code Catalyst
 
 <https://us-west-2.console.aws.amazon.com/codecatalyst/home?region=us-west-2#/landing>
+
+Denna texten är en liten text som är ett demo.
