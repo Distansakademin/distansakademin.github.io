@@ -1,6 +1,6 @@
 # Html demo 2 columns
 
-[live demo](html-demo-demo.html)
+[live demo](html-2col-demo.html)
 
 ## Important parts
 
