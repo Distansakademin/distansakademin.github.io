@@ -24,3 +24,12 @@
         font-family: 'Baloo Chettan 2', cursive;
     }
 </style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        headerImg = document.createElement("img")
+        headerImg.src = "/assets/da-logo-header-slim-v2.png"
+
+        document.querySelector("h1 > a").innerHTML = headerImg.outerHTML
+    });
+</script>
