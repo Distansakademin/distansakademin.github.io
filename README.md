@@ -15,6 +15,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 
 - [HTML & CSS](./html-css/1-intro.md)
 - [JavaScript](./javascript/1-intro.md)
+- [C#](./c-sharp/1-intro.md)
 
 ## Länkar, övningar och projektidéer
 
