@@ -2,15 +2,17 @@
 
 Att bygga ett eget plugin till WordPress kan vara en utmärkt sätt att lägga till nya funktioner eller anpassningar till din WordPress-webbplats. Här är en utförlig guide som beskriver steg för steg hur du kan bygga ett eget plugin:
 
-## Steg 1: Skapa en ny mapp
+## Steg för steg
+
+### Steg 1: Skapa en ny mapp
 
 Börja med att skapa en ny mapp för ditt plugin i WordPress-pluginsmappen. Denna mapp kan du döpa till vad du vill, men det är bäst att ge den ett unikt och beskrivande namn för ditt plugin.
 
-## Steg 2: Skapa en ny PHP-fil
+### Steg 2: Skapa en ny PHP-fil
 
 Inuti den nya mappen, skapa en ny PHP-fil. Ge filen samma namn som mappen, men med filnamnstillägget "`.php`". Till exempel, om du döpt mappen till "`my-plugin`", ge filen namnet "`my-plugin.php`".
 
-## Steg 3: Skriv plugin-definitionen
+### Steg 3: Skriv plugin-definitionen
 
 Öppna den nya PHP-filen i en textredigerare och lägg till följande kod längst upp i filen:
 
@@ -30,7 +32,7 @@ Text Domain: my-plugin
 
 Anpassa koden med din egen information. `Plugin Name` är det namn som kommer att visas i WordPress-adminpanelen, och `Plugin URI` är länken till pluginets webbplats. Du kan även ange en beskrivning, version, författare och licens för ditt plugin.
 
-## Steg 4: Skapa pluginets funktioner
+### Steg 4: Skapa pluginets funktioner
 
 Efter plugin-definitionen lägger du till dina egna funktioner för pluginet. Du kan skapa så många funktioner som behövs för att implementera den funktionalitet du vill ha. Här är ett exempel på hur du kan skapa en enkel funktion som lägger till en text till WordPress-huvudet:
 
@@ -43,11 +45,11 @@ add_action('wp_head', 'my_plugin_add_text_to_head');
 
 Denna funktion använder "`add_action`" för att koppla funktionen "`my_plugin_add_text_to_head`" till "`wp_head`"-hooken, vilket gör att funktionen körs när WordPress-renderar huvudet av sidan. I detta exempel läggs en meta-tagg till med en beskrivning.
 
-## Steg 5: Spara filen och aktivera pluginet
+### Steg 5: Spara filen och aktivera pluginet
 
 Spara PHP-filen och flytta sedan mappen med ditt plugin till "`wp-content/plugins`"-mappen på din WordPress-webbplats. Gå sedan till WordPress-adminpanelen, gå till "Tillägg" och hitta ditt plugin i listan över plugin. Klicka på "Aktivera" för att aktivera ditt plugin.
 
-## Steg 6: Testa ditt plugin
+### Steg 6: Testa ditt plugin
 
 Nu när ditt plugin är aktiverat kan du testa det på din webbplats. Se till att funktionerna i ditt plugin fungerar som förväntat och lös eventuella buggar som du hittar längs vägen.
 
