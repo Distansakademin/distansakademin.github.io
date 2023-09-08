@@ -16,6 +16,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [HTML & CSS](./html-css/1-intro.md)
 - [JavaScript](./javascript/1-intro.md)
 - [C#](./c-sharp/1-intro.md)
+- [Bygg ditt eget plugin till Wordpress](./wordpress/bygg-plugin.md)
 
 ## Länkar, övningar och projektidéer
 
