@@ -57,8 +57,7 @@ Nu när ditt plugin är aktiverat kan du testa det på din webbplats. Se till at
 
 Här är en lista med länkar där du kan läsa och lära dig mer om att bygga WordPress-plugins:
 
-1. WordPress.org - Pluginhandbok:
-<https://developer.wordpress.org/plugins/>\
+1. WordPress.org - Pluginhandbok: <https://developer.wordpress.org/plugins/>\
 Detta är den officiella dokumentationen från WordPress-teamet och innehåller allt du behöver veta för att komma igång med pluginutveckling.
 
 1. Tutsplus - WordPress Plugin Development Essentials: <https://code.tutsplus.com/series/wordpress-plugin-development-essentials--wp-35449>\
