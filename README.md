@@ -2,7 +2,6 @@
 
 På denna sidan hittar du kodexempel, övningar, och en del guider. För våra kurser eller mer information om företaget och vi som jobbar här, besök <a href="https://distansakademin.se/">Distansakademin.se</a>
 
-
 ## Om Distansakademin
 
 **Distansakademin** erbjuder kurser inom programmering som tar dig från att vara en nybörjare som aldrig testat programmering, till att du jobbar med utveckling och programmmering på heltid. Vi erbjuder bl.a. gratis kurser i Python-programmering, Webbutveckling, och C#-programmering för dig som vill testa om programmering är någonting för dig.
@@ -10,6 +9,16 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 ### English
 
 **Distansakademin** offers courses in programming that take you from being a beginner who has never tried programming before, to working with development and programming full-time. We provide, among other things, free courses in Python programming, Web Development, and C# programming for those who want to see if programming is something they want to do.
+
+## YouTube-guider
+
+- [Lär dig C#](https://www.youtube.com/playlist?list=PLI5JF23TK_8CB6bhsiRski3W3PCFqVltx)
+- [Objektorienterad programmering](https://www.youtube.com/playlist?list=PLI5JF23TK_8AuSnCoCpViC64Cacr77gPH)
+- [Skapa en egen hemsida med WordPress](https://www.youtube.com/playlist?list=PLI5JF23TK_8D3xhaa0p_OoaZLoL2H-Z4o)
+- [Lär dig Python](https://www.youtube.com/playlist?list=PLI5JF23TK_8BhDh9LzRvDtcR6_aoZH0iP)
+- [Webbutveckling grundkurs: HTML, CSS, och JavaScript](https://www.youtube.com/playlist?list=PLI5JF23TK_8D5p-MY4CvvpY7_zMUccsE8)
+- [Skriv ett CV som sticker ut](https://www.youtube.com/playlist?list=PLI5JF23TK_8CRXLPYYzU480fwQ5YfIBGU)
+- [Kom igång med Google Analytics](https://www.youtube.com/playlist?list=PLI5JF23TK_8AnIutyAAKbCxWOqWMOOPNb)
 
 ## Programmeringsguider
 
@@ -28,7 +37,6 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [Tjäna pengar](./artiklar/tjana-pengar.md)
 - [Typescript MongoDB Rest-API](./artiklar/typescript-mongodb-rest-api.md)
 - [Kodexempel](./kodexempel/index.md)
-
 
 **Rapportera eventuella fel till mailadressen längst ner på sidan.**
 
@@ -52,16 +60,19 @@ Vi erbjuder kompletta kurser i programmering flera programmeringsspråk för att
 ## Kontakt
 
 ### Distansakademin
+
 - <a href="https://distansakademin.se/"  target="_blank">Distansakademin.se</a>
 - <a href="https://www.youtube.com/c/Distansakademin"  target="_blank">YouTube</a>
 
 ### Linus Rudbeck
+
 - <a href="https://www.linkedin.com/in/liru/"  target="_blank">LinkedIn • Linus Rudbeck</a>
 - <a href="https://www.instagram.com/linus_rudbeck/"  target="_blank">Instagram • Linus Rudbeck</a>
 - [linus.rudbeck@distansakademin.se](mailto:linus.rudbeck@distansakademin.se)
 - 076-323 74 94
 
 ### Daniel Fransen
+
 - <a href="https://www.linkedin.com/in/danielfransen//"  target="_blank">LinkedIn • Daniel Fransen</a>
 - <a href="https://www.instagram.com/fransend/"  target="_blank">Instagram • Daniel Fransen</a>
 - [daniel.fransen@distansakademin.se](mailto:daniel.fransen@distansakademin.se)
