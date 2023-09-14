@@ -31,7 +31,8 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 
 - [Övningar Typescript](./ovningar/typescript.md)
 - [Övningar Java](./ovningar/java.md)
-- [Projektidéer fullstack](./artiklar/fullstack-projekt.md)
+- [WordPress Headless intro](./artiklar/wp-headless-intro.md)
+- [Projektidéer frontend](./artiklar/frontend-js-projekt.md)
 - [Projektidéer frontend](./artiklar/frontend-js-projekt.md)
 - [Datasets](./artiklar/datasets.md)
 - [Tjäna pengar](./artiklar/tjana-pengar.md)
