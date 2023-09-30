@@ -33,7 +33,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [Övningar Java](./ovningar/java.md)
 - [WordPress Headless intro](./artiklar/wp-headless-intro.md)
 - [Projektidéer frontend](./artiklar/frontend-js-projekt.md)
-- [Projektidéer frontend](./artiklar/frontend-js-projekt.md)
+- [Projektidéer fullstack](./artiklar/fullstack-projekt.md)
 - [Datasets](./artiklar/datasets.md)
 - [Tjäna pengar](./artiklar/tjana-pengar.md)
 - [Typescript MongoDB Rest-API](./artiklar/typescript-mongodb-rest-api.md)
