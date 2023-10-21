@@ -42,6 +42,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [Driftsätta en Java Spring Boot-applikation med Maven på AWS Elastic Beanstalk](./artiklar/driftsatt-spring-boot-elastig-beanstalk.md)
 - [Att Lyckas i En Objektorienterad Programmeringskurs](./artiklar/objektorienterad-programmering.md)
 - [20 enkla övningar för att lära sig programmering](./ovningar/20-enkla-ovningar.md)
+- [Udda övningar](./ovningar/udda-ovningar.md)
 
 **Rapportera eventuella fel till mailadressen längst ner på sidan.**
 
