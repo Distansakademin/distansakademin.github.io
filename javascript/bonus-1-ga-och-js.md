@@ -1,4 +1,4 @@
-# JavaScript och Google Analytics V1
+# JavaScript och Google Analytics
 
 JavaScript och Google Analytics är kraftfulla verktyg för att spåra användarbeteende på nätet. Den här nybörjarguiden är avsedd för att hjälpa dig förstå grunderna i hur du kan använda JavaScript tillsammans med Google Analytics för att spåra och analysera trafik på din webbplats.
 
