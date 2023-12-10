@@ -109,4 +109,4 @@ Funktioner och objekt är grundläggande byggstenar i JavaScript-programmering. 
 
 ---
 
-[<< Tillbaka till startsidan](../README.md) | [Nästa: Övningar >>](./6-local-storage.md)
+[<< Tillbaka till startsidan](../README.md) | [Nästa: DOM & localStorage >>](./6-dom-local-storage.md)
