@@ -1,6 +1,6 @@
 # DOM Manipulation, Event Listeners och Local Storage
 
-Välkommen till världen av JavaScript, det språk som ger liv till webbsidor! Som nybörjare kommer denna guide att introducera dig till tre grundläggande men kraftfulla koncept: DOM Manipulation, Event Listeners och Local Storage.
+Denna guide introducerar dig till tre grundläggande men kraftfulla koncept: DOM Manipulation, Event Listeners och Local Storage.
 
 ## DOM Manipulation
 
@@ -33,16 +33,16 @@ h1.style.color = 'blue'; // Ändrar färgen på texten till blå
 För att lägga till ett nytt element till DOM:
 
 ```javascript
-const nyttElement = document.createElement('p'); // Skapar ett nytt p-element
-nyttElement.textContent = 'Detta är ett nytt stycke.';
-document.body.appendChild(nyttElement); // Lägger till det nya elementet till body i DOM
+const newElement = document.createElement('p'); // Skapar ett nytt p-element
+newElement.textContent = 'Detta är ett nytt stycke.';
+document.body.appendChild(newElement); // Lägger till det nya elementet till body i DOM
 ```
 
 För att ta bort ett element från DOM:
 
 ```javascript
-const gammaltElement = document.querySelector('p');
-gammaltElement.remove(); // Tar bort det valda elementet från DOM
+const oldElement = document.querySelector('p');
+oldElement.remove(); // Tar bort det valda elementet från DOM
 ```
 
 ## Övning 1: DOM Manipulation
@@ -58,8 +58,8 @@ Event Listeners låter dig "lyssna" efter händelser (som klick, tangentnedtryck
 ### Lägga till en Event Listener
 
 ```javascript
-const knapp = document.querySelector('button');
-knapp.addEventListener('click', function() {
+const myButton = document.querySelector('button');
+myButton.addEventListener('click', function() {
   alert('Knappen klickades på!');
 });
 ```
@@ -76,20 +76,20 @@ Local Storage är en enkel nyckel-/värdelagringsfunktion i webbläsaren som lå
 ### Spara Data
 
 ```javascript
-localStorage.setItem('nyckel', 'värde');
+localStorage.setItem('myName', 'Anna');
 ```
 
 ### Hämta Data
 
 ```javascript
-const varde = localStorage.getItem('nyckel');
-console.log(varde); // Skriver ut 'värde'
+const savedValue = localStorage.getItem('myName');
+console.log(savedValue); // Skriver ut 'Anna'
 ```
 
 ### Ta Bort Data
 
 ```javascript
-localStorage.removeItem('nyckel');
+localStorage.removeItem('myName');
 ```
 
 ## Övning 3: Local Storage
@@ -112,9 +112,9 @@ link.setAttribute('href', 'https://example.com'); // Uppdaterar länkens href-at
 ### Klasser och Stil
 
 ```javascript
-const element = document.querySelector('.min-klass');
-element.classList.add('en-annan-klass'); // Lägger till en klass
-element.classList.remove('min-klass'); // Tar bort en klass
+const element = document.querySelector('.some-class');
+element.classList.add('another-class'); // Lägger till en klass
+element.classList.remove('some-class'); // Tar bort en klass
 
 element.style.backgroundColor = 'yellow'; // Ändrar bakgrundsfärgen
 ```
@@ -130,8 +130,19 @@ Du kan inte bara lyssna på klick, utan det finns en uppsjö av händelser som k
 
 ### Formulärhändelser
 
+Ett formulär är en samling av HTML-element som används för att samla in användardata. När ett formulär skickas kan du fånga upp händelsen och utföra en funktion.
+
+Exempel på ett formulär:
+
+```html
+<form>
+  <input type="text" />
+  <button type="submit">Skicka</button>
+</form>
+```
+
 ```javascript
-const form = document.querySelector('form');
+const form = document.querySelector('form'); // Väljer formuläret (första formuläret på sidan om det finns flera)
 form.addEventListener('submit', function(event) {
   event.preventDefault(); // Stoppar standardbeteendet (skickar inte formuläret)
   const inputVal = form.querySelector('input').value;
@@ -143,10 +154,22 @@ form.addEventListener('submit', function(event) {
 
 1. Skapa ett enkelt inloggningsformulär med två textfält (för användarnamn och lösenord) och en "Logga in"-knapp.
 2. Visa en alert med användarnamn och lösenord när formuläret skickas.
+3. Ändra bakgrundsfärgen på sidan till grön om användarnamnet är "admin" och lösenordet är "1234" och till röd annars.
 
 ## Kommunicera med Local Storage
 
 Du kan även använda Local Storage för att hantera komplexa data genom att konvertera till och från `JSON` format:
+
+JSON (JavaScript Object Notation) är ett format för att lagra och överföra data. Det är lätt att läsa och skriva för både människor och maskiner.
+
+Exempel på JSON:
+
+```json
+{
+  "name": "Anna",
+  "age": 28
+}
+```
 
 ### Spara och Hämta Komplexa Data
 
@@ -165,6 +188,7 @@ console.log(storedUser.name); // Skriver ut 'Anna'
 
 Genom dessa övningar och exempel borde du nu ha en stabil grund att stå på för att bygga interaktiva webbsidor med JavaScript. Ju mer du övar, desto bekvämare blir du med dessa koncept och desto mer komplexa applikationer kommer du att kunna skapa.
 
+([Bonus: Google Analytics](./bonus-1-ga-och-js.md))
 
 ---
 
