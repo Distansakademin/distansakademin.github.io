@@ -43,6 +43,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [Att Lyckas i En Objektorienterad Programmeringskurs](./artiklar/objektorienterad-programmering.md)
 - [20 enkla övningar för att lära sig programmering](./ovningar/20-enkla-ovningar.md)
 - [Udda övningar](./ovningar/udda-ovningar.md)
+- [Bygga en MVC-applikation för Lagerhantering med .NET Core 8](./kurser/net-core-mvc-app/1.md)
 
 **Rapportera eventuella fel till mailadressen längst ner på sidan.**
 
