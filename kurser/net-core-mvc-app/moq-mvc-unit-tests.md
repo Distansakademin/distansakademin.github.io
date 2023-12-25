@@ -1,7 +1,5 @@
 # Enhetstester av MVC Controller med Entity Framework och Moq
 
-![Header](./m2-sm-header.png)
-
 Denna guide visar hur du enhetstestar en MVC CRUD-controller som använder Entity Framework. I guiden skapar vi en mockad DbContext och lägger till några sånger i databasen.
 
 ## Steg 1: Förberedelser
