@@ -27,6 +27,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [C#](./c-sharp/1-intro.md)
 - [Bygg ditt eget plugin till Wordpress](./wordpress/bygg-plugin.md)
 - [Installera WordPress på Windows med WAMP](./wordpress/installera-wp-wamp.md)
+- [Python nybörjarguide](./python/guide-del-1.md)
 
 ## Länkar, övningar och projektidéer
 
