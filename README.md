@@ -85,3 +85,7 @@ Vi erbjuder kompletta kurser i programmering flera programmeringsspråk för att
 - <a href="https://www.instagram.com/fransend/"  target="_blank">Instagram • Daniel Fransen</a>
 - [daniel.fransen@distansakademin.se](mailto:daniel.fransen@distansakademin.se)
 - 076-338 15 77
+
+## VCD Länk till presentation
+
+Här hittar ni länk till presentationen som gjordes under VCD 2024-02-08: [VCD Presentation](./assets/vcd-forelasning.marp.pdf)
