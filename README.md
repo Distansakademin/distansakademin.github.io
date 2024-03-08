@@ -29,8 +29,9 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [Installera WordPress på Windows med WAMP](./wordpress/installera-wp-wamp.md)
 - [Python nybörjarguide](./python/guide-del-1.md)
 
-## Länkar, övningar och projektidéer
+## Länkar, övningar, projektidéer och artiklar
 
+- [Kom igång med Python](./artiklar/kom-igang-med-python.md)
 - [Övningar Typescript](./ovningar/typescript.md)
 - [Övningar Java](./ovningar/java.md)
 - [WordPress Headless intro](./artiklar/wp-headless-intro.md)
