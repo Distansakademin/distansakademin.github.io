@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Håll över bilden så försvinner den</title>
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        img {
+            width: 200px;
+            height: 200px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Håll över bilden så försvinner den</h1>
+    <img src="./../assets/alien.jfif" alt="En blomma">
+
+    <script>
+        const img = document.querySelector('img');
+        img.addEventListener('mouseover', () => {
+            // Hide the image when the mouse is over it
+            img.style.display = 'none';
+
+            // Show the image again when the mouse leaves the image
+            img.addEventListener('mouseleave', () => {
+                img.style.display = 'block';
+            });
+        });
+    </script>
+    
+</body>
+</html>
