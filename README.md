@@ -47,6 +47,7 @@ På denna sidan hittar du kodexempel, övningar, och en del guider. För våra k
 - [Udda övningar](./ovningar/udda-ovningar.md)
 - [Bygga en MVC-applikation för Lagerhantering med .NET Core 8](./kurser/net-core-mvc-app/1.md)
 - [AWS Terminologi](./artiklar/aws-terminologi.md)
+- [Programmera C# på en Mac med VS Code](./artiklar/csharp-programmering-med-mac.md)
 
 **Rapportera eventuella fel till mailadressen längst ner på sidan.**
 
