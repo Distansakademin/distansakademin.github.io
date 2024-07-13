@@ -1,17 +1,44 @@
 [
     {
-        "id": 1,
-        "title": "Article 1",
-        "content": "Content of article 1"
+        "title": "Ny forskning avslöjar hälsosamma effekter av choklad",
+        "author": "Anna Karlsson",
+        "date": "2024-07-13",
+        "content": "En ny studie från Göteborgs universitet visar att konsumtion av mörk choklad kan ha positiva effekter på hjärthälsan. Forskarna fann att regelbunden konsumtion av mörk choklad kan minska risken för hjärtsjukdomar med upp till 20%.",
+        "category": "Hälsa"
     },
     {
-        "id": 2,
-        "title": "Article 2",
-        "content": "Content of article 2"
+        "title": "Stockholms nya tunnelbanelinje invigd",
+        "author": "Johan Pettersson",
+        "date": "2024-07-12",
+        "content": "Efter flera års byggande har Stockholms nya tunnelbanelinje officiellt invigts. Linjen sträcker sig från Fridhemsplan till Nacka och förväntas minska restiderna avsevärt för pendlare i området.",
+        "category": "Lokalt"
     },
     {
-        "id": 3,
-        "title": "Article 3",
-        "content": "Content of article 3"
+        "title": "Innovativ teknik för rening av havsvatten utvecklad",
+        "author": "Eva Lindgren",
+        "date": "2024-07-11",
+        "content": "Ett svenskt företag har utvecklat en ny teknik som kan rena havsvatten till dricksvatten på ett miljövänligt och kostnadseffektivt sätt. Tekniken har potential att lösa vattenbristen i många delar av världen.",
+        "category": "Teknik"
+    },
+    {
+        "title": "Konstutställning i Malmö drar storpublik",
+        "author": "Lars Svensson",
+        "date": "2024-07-10",
+        "content": "En ny konstutställning i Malmö har blivit en stor succé och lockat besökare från hela landet. Utställningen, som visar verk av både svenska och internationella konstnärer, pågår fram till slutet av augusti.",
+        "category": "Kultur"
+    },
+    {
+        "title": "Sverige vinner VM-guld i fotboll",
+        "author": "Maja Andersson",
+        "date": "2024-07-09",
+        "content": "Sverige har vunnit VM-guld i fotboll efter en spännande finalmatch mot Brasilien. Matchen slutade 2-1 till Sverige, som nu kan fira sin första VM-titel sedan 1958.",
+        "category": "Sport"
+    },
+    {
+        "title": "Ny lag för att minska plastavfall träder i kraft",
+        "author": "Nils Eriksson",
+        "date": "2024-07-08",
+        "content": "En ny lag som syftar till att minska plastavfall har trätt i kraft i Sverige. Lagen förbjuder användningen av engångsartiklar i plast och uppmuntrar till användning av mer hållbara material.",
+        "category": "Miljö"
     }
 ]
