@@ -27,7 +27,7 @@ $$
 Det nya priset blir då:
 
 $$
-100 \times 0,10 = 10
+100 - 10 = 90
 $$
 
 ---
