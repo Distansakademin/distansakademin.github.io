@@ -8,6 +8,9 @@
     gtag('config', 'G-0F3C54HHQ1');
 </script>
 
+
+
+<!-- Custom CSS -->
 <style>
     @import url('https://fonts.googleapis.com/css?family=Baloo+Chettan+2:700|Open+Sans:400,400i,700,700i&display=swap');
 
@@ -23,8 +26,13 @@
     h6 {
         font-family: 'Baloo Chettan 2', cursive;
     }
+
+    .external::after { /* Use emoji for external links */
+        content: " ↗️";
+    }
 </style>
 
+<!-- Custom header -->
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         headerImg = document.createElement("img")
@@ -33,5 +41,25 @@
         headerImg.style.margin = "auto"
 
         document.querySelector("h1").outerHTML = headerImg.outerHTML
+    });
+</script>
+
+
+<!-- Latex -->
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<!-- Custom JS -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Add class to external
+        document.querySelectorAll('a').forEach(function (a) {
+            if (a.host !== window.location.host) a.classList.add('external')
+        })
+
+        // Add target blank to external
+        document.querySelectorAll('a.external').forEach(function (a) {
+            a.setAttribute('target', '_blank')
+        })
     });
 </script>
