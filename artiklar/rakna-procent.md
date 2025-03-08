@@ -8,27 +8,19 @@ Att förstå hur procent fungerar är avgörande när man handlar med aktier. De
 
 En procent (%) betyder "per hundra". Om en aktie kostar **100 kr** och ökar med **10 %**, betyder det att priset ökar med:
 
-\[
-100 \times 0,10 = 10
-\]
+\[ 100 \times 0,10 = 10 \]
 
 Det nya priset blir då:
 
-\[
-100 + 10 = 110
-\]
+\[ 100 + 10 = 110 \]
 
 Om aktien istället sjunker med **10 %**, minskar den med:
 
-\[
-100 \times 0,10 = 10
-\]
+\[ 100 \times 0,10 = 10 \]
 
 Det nya priset blir då:
 
-\[
-100 - 10 = 90
-\]
+\[ 100 - 10 = 90 \]
 
 ---
 
@@ -41,18 +33,14 @@ Om en aktie sjunker i värde, måste den stiga med en högre procent för att å
 1. En aktie kostar **100 kr**.
 2. Den sjunker med **50 %**:
 
-\[
-100 \times 0,50 = 50
-\]
+\[ 100 \times 0,50 = 50 \]
 
 - Nytt pris: **50 kr**
 
 3. För att återgå till **100 kr** måste den öka med **50 kr**.
 4. **50 kr uppgång från 50 kr är en ökning med 100 %**:
 
-\[
-50 \times 2,00 = 100
-\]
+\[ 50 \times 2,00 = 100 \]
 
 - **Alltså: En nedgång på 50 % kräver en uppgång på 100 % för att återhämta sig.**
 
@@ -62,27 +50,21 @@ Om en aktie sjunker i värde, måste den stiga med en högre procent för att å
 
 Formeln för att räkna ut hur stor uppgång som krävs för att återhämta en viss nedgång är:
 
-\[
-\frac{\text{Nedgång i procent}}{100 - \text{Nedgång i procent}} \times 100
-\]
+\[ \frac{\text{Nedgång i procent}}{100 - \text{Nedgång i procent}} \times 100 \]
 
 ### **Exempel: Nedgång på 3 %**
 
 1. En aktie kostar **100 kr**.
 2. Den sjunker med **3 %**:
 
-\[
-100 \times 0,03 = 3
-\]
+\[ 100 \times 0,03 = 3 \]
 
 - Nytt pris: **97 kr**
 
 3. För att återhämta sig till **100 kr** måste den öka med **3 kr**.
 4. Procentuell ökning från **97 kr**:
 
-\[
-\frac{3}{97} \times 100 = 3,09\%
-\]
+\[ \frac{3}{97} \times 100 = 3,09\% \]
 
 - **Alltså: Efter en nedgång på 3 % krävs en uppgång på ca 3,09 % för att återhämta sig.**
 
@@ -113,9 +95,7 @@ Formeln för att räkna ut hur stor uppgång som krävs för att återhämta en 
 - En **50 % nedgång kräver en 100 % uppgång** för att återhämta sig.
 - För att räkna ut återhämtningsprocenten använder du formeln:
 
-\[
-\frac{\text{Nedgång i procent}}{100 - \text{Nedgång i procent}} \times 100
-\]
+\[ \frac{\text{Nedgång i procent}}{100 - \text{Nedgång i procent}} \times 100 \]
 
 - Ju större nedgång, desto större uppgång krävs för att återhämta sig.
 
