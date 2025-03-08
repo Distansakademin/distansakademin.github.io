@@ -1,0 +1,44 @@
+# Jekyll genererade filer
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+jekyll-cache/
+
+# Bundler och Ruby-dependencies
+Gemfile.lock
+.bundle/
+vendor/
+
+# Loggar och tillfälliga filer
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.bak
+*.tmp
+
+# macOS-specifika filer
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows-specifika filer
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code- och IDE-specifika filer
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Node.js och npm (om du har JavaScript/CSS-paket i projektet)
+node_modules/
+package-lock.json
+yarn.lock
+
+# GitHub Pages specifikt
+.cache/
