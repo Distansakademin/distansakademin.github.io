@@ -39,6 +39,10 @@
         headerImg.src = "/assets/da-logo-header-slim-v2.png"
         headerImg.style.display = "block"
         headerImg.style.margin = "auto"
+        headerImg.style.cursor = "pointer"
+        headerImg.onclick = function () {
+            window.location.href = "/"
+        }
 
         document.querySelector("h1").outerHTML = headerImg.outerHTML
     });
