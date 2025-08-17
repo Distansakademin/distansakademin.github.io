@@ -1,0 +1,290 @@
+[
+  {
+    "id": 41,
+    "customerId": 189,
+    "createdAt": "2025-07-02T06:57:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0160",
+        "name": "Notebook",
+        "qty": 1,
+        "unitPrice": 188.97
+      },
+      {
+        "sku": "SKU-0116",
+        "name": "Powerbank",
+        "qty": 1,
+        "unitPrice": 1260.51
+      },
+      {
+        "sku": "SKU-0011",
+        "name": "Webbkamera",
+        "qty": 4,
+        "unitPrice": 1730.31
+      },
+      {
+        "sku": "SKU-0261",
+        "name": "Powerbank",
+        "qty": 3,
+        "unitPrice": 593.48
+      },
+      {
+        "sku": "SKU-0067",
+        "name": "Musmatta",
+        "qty": 3,
+        "unitPrice": 1632.3
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "customerId": 170,
+    "createdAt": "2025-05-22T23:39:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0079",
+        "name": "Laddare",
+        "qty": 2,
+        "unitPrice": 1287.53
+      },
+      {
+        "sku": "SKU-0182",
+        "name": "Laddare",
+        "qty": 3,
+        "unitPrice": 465.2
+      },
+      {
+        "sku": "SKU-0207",
+        "name": "Powerbank",
+        "qty": 1,
+        "unitPrice": 1108.06
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "customerId": 17,
+    "createdAt": "2024-10-15T17:56:54Z",
+    "status": "RETURNED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0276",
+        "name": "Webbkamera",
+        "qty": 4,
+        "unitPrice": 1325.59
+      },
+      {
+        "sku": "SKU-0271",
+        "name": "Notebook",
+        "qty": 4,
+        "unitPrice": 988.02
+      },
+      {
+        "sku": "SKU-0099",
+        "name": "Kaffemugg",
+        "qty": 2,
+        "unitPrice": 1721.51
+      },
+      {
+        "sku": "SKU-0290",
+        "name": "Webbkamera",
+        "qty": 2,
+        "unitPrice": 1772.05
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "customerId": 42,
+    "createdAt": "2025-07-18T09:06:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0203",
+        "name": "Skärmskydd",
+        "qty": 3,
+        "unitPrice": 975.29
+      },
+      {
+        "sku": "SKU-0280",
+        "name": "USB-C-kabel",
+        "qty": 1,
+        "unitPrice": 451.73
+      },
+      {
+        "sku": "SKU-0039",
+        "name": "Powerbank",
+        "qty": 4,
+        "unitPrice": 1865.07
+      },
+      {
+        "sku": "SKU-0275",
+        "name": "Tangentbord",
+        "qty": 3,
+        "unitPrice": 355.49
+      },
+      {
+        "sku": "SKU-0261",
+        "name": "USB-C-kabel",
+        "qty": 1,
+        "unitPrice": 341.68
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "customerId": 188,
+    "createdAt": "2024-11-21T22:15:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0099",
+        "name": "USB-C-kabel",
+        "qty": 2,
+        "unitPrice": 1475.95
+      },
+      {
+        "sku": "SKU-0023",
+        "name": "Notebook",
+        "qty": 2,
+        "unitPrice": 744.49
+      },
+      {
+        "sku": "SKU-0173",
+        "name": "Musmatta",
+        "qty": 2,
+        "unitPrice": 1979.29
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "customerId": 9,
+    "createdAt": "2025-02-28T09:24:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0141",
+        "name": "Laddare",
+        "qty": 3,
+        "unitPrice": 1199.11
+      },
+      {
+        "sku": "SKU-0127",
+        "name": "Webbkamera",
+        "qty": 3,
+        "unitPrice": 809.48
+      },
+      {
+        "sku": "SKU-0048",
+        "name": "USB-C-kabel",
+        "qty": 3,
+        "unitPrice": 553.68
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "customerId": 144,
+    "createdAt": "2025-02-17T16:31:54Z",
+    "status": "CANCELLED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0026",
+        "name": "Powerbank",
+        "qty": 1,
+        "unitPrice": 252.39
+      },
+      {
+        "sku": "SKU-0179",
+        "name": "Notebook",
+        "qty": 3,
+        "unitPrice": 1132.35
+      },
+      {
+        "sku": "SKU-0078",
+        "name": "Tangentbord",
+        "qty": 4,
+        "unitPrice": 1056.99
+      },
+      {
+        "sku": "SKU-0167",
+        "name": "Hörlurar",
+        "qty": 2,
+        "unitPrice": 618.29
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "customerId": 39,
+    "createdAt": "2025-06-09T13:10:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0275",
+        "name": "Kaffemugg",
+        "qty": 1,
+        "unitPrice": 573.93
+      },
+      {
+        "sku": "SKU-0017",
+        "name": "Tangentbord",
+        "qty": 1,
+        "unitPrice": 1542.64
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "customerId": 167,
+    "createdAt": "2024-07-28T00:54:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0228",
+        "name": "Webbkamera",
+        "qty": 1,
+        "unitPrice": 1953.33
+      },
+      {
+        "sku": "SKU-0042",
+        "name": "Powerbank",
+        "qty": 4,
+        "unitPrice": 1745.02
+      },
+      {
+        "sku": "SKU-0203",
+        "name": "Webbkamera",
+        "qty": 3,
+        "unitPrice": 1290.42
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "customerId": 7,
+    "createdAt": "2024-10-09T21:02:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0177",
+        "name": "Hörlurar",
+        "qty": 1,
+        "unitPrice": 1506.75
+      }
+    ]
+  }
+]

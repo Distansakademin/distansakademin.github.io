@@ -1,0 +1,308 @@
+[
+  {
+    "id": 11,
+    "customerId": 11,
+    "createdAt": "2024-09-18T16:35:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0286",
+        "name": "Powerbank",
+        "qty": 2,
+        "unitPrice": 1751.79
+      },
+      {
+        "sku": "SKU-0074",
+        "name": "Musmatta",
+        "qty": 4,
+        "unitPrice": 1973.28
+      },
+      {
+        "sku": "SKU-0113",
+        "name": "USB-C-kabel",
+        "qty": 3,
+        "unitPrice": 1011.66
+      },
+      {
+        "sku": "SKU-0148",
+        "name": "Webbkamera",
+        "qty": 2,
+        "unitPrice": 1553.78
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "customerId": 176,
+    "createdAt": "2025-04-28T00:09:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0091",
+        "name": "Laddare",
+        "qty": 1,
+        "unitPrice": 944.33
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "customerId": 184,
+    "createdAt": "2024-08-14T04:48:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0048",
+        "name": "Skärmskydd",
+        "qty": 1,
+        "unitPrice": 526.85
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "customerId": 2,
+    "createdAt": "2025-06-06T12:31:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0297",
+        "name": "Laddare",
+        "qty": 1,
+        "unitPrice": 845.08
+      },
+      {
+        "sku": "SKU-0075",
+        "name": "Webbkamera",
+        "qty": 3,
+        "unitPrice": 1080.56
+      },
+      {
+        "sku": "SKU-0296",
+        "name": "Laddare",
+        "qty": 4,
+        "unitPrice": 1770.93
+      },
+      {
+        "sku": "SKU-0021",
+        "name": "Skärmskydd",
+        "qty": 4,
+        "unitPrice": 439.55
+      },
+      {
+        "sku": "SKU-0134",
+        "name": "Tangentbord",
+        "qty": 2,
+        "unitPrice": 1373.78
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "customerId": 129,
+    "createdAt": "2025-01-06T22:59:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0140",
+        "name": "Powerbank",
+        "qty": 1,
+        "unitPrice": 1178.17
+      },
+      {
+        "sku": "SKU-0229",
+        "name": "Kaffemugg",
+        "qty": 3,
+        "unitPrice": 76.02
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "customerId": 61,
+    "createdAt": "2025-04-11T00:22:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0230",
+        "name": "Kaffemugg",
+        "qty": 3,
+        "unitPrice": 995.8
+      },
+      {
+        "sku": "SKU-0255",
+        "name": "Musmatta",
+        "qty": 2,
+        "unitPrice": 392.48
+      },
+      {
+        "sku": "SKU-0046",
+        "name": "Tangentbord",
+        "qty": 3,
+        "unitPrice": 925.22
+      },
+      {
+        "sku": "SKU-0012",
+        "name": "Tangentbord",
+        "qty": 1,
+        "unitPrice": 1636.95
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "customerId": 46,
+    "createdAt": "2025-02-05T05:32:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0066",
+        "name": "Notebook",
+        "qty": 2,
+        "unitPrice": 226.25
+      },
+      {
+        "sku": "SKU-0063",
+        "name": "Skärmskydd",
+        "qty": 3,
+        "unitPrice": 1082.1
+      },
+      {
+        "sku": "SKU-0003",
+        "name": "Hörlurar",
+        "qty": 4,
+        "unitPrice": 1960.56
+      },
+      {
+        "sku": "SKU-0054",
+        "name": "Webbkamera",
+        "qty": 1,
+        "unitPrice": 508.66
+      },
+      {
+        "sku": "SKU-0240",
+        "name": "USB-C-kabel",
+        "qty": 4,
+        "unitPrice": 1827.08
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "customerId": 78,
+    "createdAt": "2025-03-26T20:05:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0102",
+        "name": "Webbkamera",
+        "qty": 1,
+        "unitPrice": 1826.41
+      },
+      {
+        "sku": "SKU-0126",
+        "name": "Laddare",
+        "qty": 2,
+        "unitPrice": 346.86
+      },
+      {
+        "sku": "SKU-0184",
+        "name": "USB-C-kabel",
+        "qty": 3,
+        "unitPrice": 709.14
+      },
+      {
+        "sku": "SKU-0003",
+        "name": "Notebook",
+        "qty": 3,
+        "unitPrice": 415.33
+      },
+      {
+        "sku": "SKU-0227",
+        "name": "Laddare",
+        "qty": 2,
+        "unitPrice": 689.51
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "customerId": 25,
+    "createdAt": "2024-10-23T22:51:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0008",
+        "name": "Laddare",
+        "qty": 1,
+        "unitPrice": 928.08
+      },
+      {
+        "sku": "SKU-0006",
+        "name": "Notebook",
+        "qty": 3,
+        "unitPrice": 874.54
+      },
+      {
+        "sku": "SKU-0282",
+        "name": "Kaffemugg",
+        "qty": 4,
+        "unitPrice": 478.99
+      },
+      {
+        "sku": "SKU-0179",
+        "name": "Tangentbord",
+        "qty": 4,
+        "unitPrice": 1587.59
+      },
+      {
+        "sku": "SKU-0233",
+        "name": "Hörlurar",
+        "qty": 2,
+        "unitPrice": 636.07
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "customerId": 81,
+    "createdAt": "2024-12-12T16:52:54Z",
+    "status": "CANCELLED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0040",
+        "name": "Tangentbord",
+        "qty": 1,
+        "unitPrice": 1989.06
+      },
+      {
+        "sku": "SKU-0086",
+        "name": "Laddare",
+        "qty": 4,
+        "unitPrice": 1328.58
+      },
+      {
+        "sku": "SKU-0260",
+        "name": "Tangentbord",
+        "qty": 1,
+        "unitPrice": 744.07
+      },
+      {
+        "sku": "SKU-0056",
+        "name": "Skärmskydd",
+        "qty": 3,
+        "unitPrice": 1575.52
+      }
+    ]
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "customerId": 8,
+    "createdAt": "2025-01-17T05:05:54Z",
+    "status": "RETURNED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0195",
+        "name": "Musmatta",
+        "qty": 3,
+        "unitPrice": 409.57
+      },
+      {
+        "sku": "SKU-0253",
+        "name": "Kaffemugg",
+        "qty": 4,
+        "unitPrice": 355.89
+      },
+      {
+        "sku": "SKU-0294",
+        "name": "Laddare",
+        "qty": 1,
+        "unitPrice": 101.6
+      },
+      {
+        "sku": "SKU-0259",
+        "name": "Skärmskydd",
+        "qty": 2,
+        "unitPrice": 705.94
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "customerId": 177,
+    "createdAt": "2025-05-22T01:28:54Z",
+    "status": "RETURNED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0229",
+        "name": "Kaffemugg",
+        "qty": 3,
+        "unitPrice": 705.09
+      },
+      {
+        "sku": "SKU-0164",
+        "name": "Skärmskydd",
+        "qty": 3,
+        "unitPrice": 1359.58
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "customerId": 104,
+    "createdAt": "2024-10-10T20:07:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0086",
+        "name": "Musmatta",
+        "qty": 4,
+        "unitPrice": 571.52
+      },
+      {
+        "sku": "SKU-0041",
+        "name": "Laddare",
+        "qty": 3,
+        "unitPrice": 374.74
+      },
+      {
+        "sku": "SKU-0086",
+        "name": "Tangentbord",
+        "qty": 4,
+        "unitPrice": 590.58
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "customerId": 187,
+    "createdAt": "2025-07-05T06:07:54Z",
+    "status": "CANCELLED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0239",
+        "name": "Laddare",
+        "qty": 2,
+        "unitPrice": 1013.27
+      },
+      {
+        "sku": "SKU-0054",
+        "name": "Notebook",
+        "qty": 4,
+        "unitPrice": 858.03
+      },
+      {
+        "sku": "SKU-0216",
+        "name": "USB-C-kabel",
+        "qty": 2,
+        "unitPrice": 760.67
+      },
+      {
+        "sku": "SKU-0111",
+        "name": "Webbkamera",
+        "qty": 4,
+        "unitPrice": 213.49
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "customerId": 137,
+    "createdAt": "2025-03-12T07:31:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0217",
+        "name": "Kaffemugg",
+        "qty": 1,
+        "unitPrice": 1486.85
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "customerId": 171,
+    "createdAt": "2025-01-09T13:12:54Z",
+    "status": "RETURNED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0130",
+        "name": "Powerbank",
+        "qty": 4,
+        "unitPrice": 1941.8
+      },
+      {
+        "sku": "SKU-0217",
+        "name": "Musmatta",
+        "qty": 2,
+        "unitPrice": 365.69
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "customerId": 2,
+    "createdAt": "2025-01-12T16:29:54Z",
+    "status": "RETURNED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0058",
+        "name": "Laddare",
+        "qty": 2,
+        "unitPrice": 957.68
+      },
+      {
+        "sku": "SKU-0152",
+        "name": "Hörlurar",
+        "qty": 2,
+        "unitPrice": 1730.3
+      },
+      {
+        "sku": "SKU-0014",
+        "name": "Skärmskydd",
+        "qty": 1,
+        "unitPrice": 1054.42
+      },
+      {
+        "sku": "SKU-0067",
+        "name": "USB-C-kabel",
+        "qty": 2,
+        "unitPrice": 678.06
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "customerId": 27,
+    "createdAt": "2025-06-05T22:50:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0235",
+        "name": "Notebook",
+        "qty": 1,
+        "unitPrice": 1809.99
+      },
+      {
+        "sku": "SKU-0140",
+        "name": "USB-C-kabel",
+        "qty": 3,
+        "unitPrice": 235.65
+      },
+      {
+        "sku": "SKU-0096",
+        "name": "Notebook",
+        "qty": 2,
+        "unitPrice": 318.15
+      },
+      {
+        "sku": "SKU-0037",
+        "name": "Skärmskydd",
+        "qty": 1,
+        "unitPrice": 1167.74
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "customerId": 192,
+    "createdAt": "2025-06-27T08:41:54Z",
+    "status": "CANCELLED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0140",
+        "name": "Powerbank",
+        "qty": 2,
+        "unitPrice": 1404.05
+      },
+      {
+        "sku": "SKU-0088",
+        "name": "USB-C-kabel",
+        "qty": 4,
+        "unitPrice": 835.07
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "customerId": 29,
+    "createdAt": "2024-12-16T06:08:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0257",
+        "name": "Powerbank",
+        "qty": 1,
+        "unitPrice": 1565.69
+      },
+      {
+        "sku": "SKU-0200",
+        "name": "Notebook",
+        "qty": 4,
+        "unitPrice": 407.95
+      },
+      {
+        "sku": "SKU-0130",
+        "name": "Skärmskydd",
+        "qty": 1,
+        "unitPrice": 1586.12
+      }
+    ]
+  }
+]

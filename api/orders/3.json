@@ -1,0 +1,260 @@
+[
+  {
+    "id": 21,
+    "customerId": 113,
+    "createdAt": "2025-04-19T13:03:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0254",
+        "name": "Hörlurar",
+        "qty": 1,
+        "unitPrice": 1337.63
+      },
+      {
+        "sku": "SKU-0134",
+        "name": "Kaffemugg",
+        "qty": 3,
+        "unitPrice": 1094.41
+      },
+      {
+        "sku": "SKU-0216",
+        "name": "Tangentbord",
+        "qty": 3,
+        "unitPrice": 760.63
+      },
+      {
+        "sku": "SKU-0266",
+        "name": "Laddare",
+        "qty": 2,
+        "unitPrice": 1510.69
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "customerId": 192,
+    "createdAt": "2025-01-02T10:20:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0203",
+        "name": "Kaffemugg",
+        "qty": 1,
+        "unitPrice": 1444.7
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "customerId": 181,
+    "createdAt": "2025-07-28T16:31:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0117",
+        "name": "Skärmskydd",
+        "qty": 4,
+        "unitPrice": 1512.8
+      },
+      {
+        "sku": "SKU-0035",
+        "name": "USB-C-kabel",
+        "qty": 1,
+        "unitPrice": 368.57
+      },
+      {
+        "sku": "SKU-0211",
+        "name": "Tangentbord",
+        "qty": 3,
+        "unitPrice": 1397.65
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "customerId": 124,
+    "createdAt": "2025-07-08T00:02:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0214",
+        "name": "Kaffemugg",
+        "qty": 1,
+        "unitPrice": 338.38
+      },
+      {
+        "sku": "SKU-0177",
+        "name": "Musmatta",
+        "qty": 3,
+        "unitPrice": 569.61
+      },
+      {
+        "sku": "SKU-0061",
+        "name": "Kaffemugg",
+        "qty": 3,
+        "unitPrice": 403.17
+      },
+      {
+        "sku": "SKU-0182",
+        "name": "Powerbank",
+        "qty": 2,
+        "unitPrice": 704.91
+      },
+      {
+        "sku": "SKU-0012",
+        "name": "Hörlurar",
+        "qty": 4,
+        "unitPrice": 1952.62
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "customerId": 176,
+    "createdAt": "2024-08-05T02:29:54Z",
+    "status": "CANCELLED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0043",
+        "name": "Laddare",
+        "qty": 1,
+        "unitPrice": 1811.45
+      },
+      {
+        "sku": "SKU-0038",
+        "name": "Laddare",
+        "qty": 2,
+        "unitPrice": 1378.48
+      },
+      {
+        "sku": "SKU-0022",
+        "name": "Notebook",
+        "qty": 4,
+        "unitPrice": 152.29
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "customerId": 32,
+    "createdAt": "2024-10-17T19:50:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0277",
+        "name": "Musmatta",
+        "qty": 3,
+        "unitPrice": 288.62
+      },
+      {
+        "sku": "SKU-0081",
+        "name": "Tangentbord",
+        "qty": 4,
+        "unitPrice": 702.45
+      },
+      {
+        "sku": "SKU-0252",
+        "name": "Powerbank",
+        "qty": 1,
+        "unitPrice": 1314.45
+      },
+      {
+        "sku": "SKU-0186",
+        "name": "Notebook",
+        "qty": 1,
+        "unitPrice": 1188.42
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "customerId": 3,
+    "createdAt": "2025-06-25T09:34:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0058",
+        "name": "Tangentbord",
+        "qty": 2,
+        "unitPrice": 276.66
+      },
+      {
+        "sku": "SKU-0236",
+        "name": "Skärmskydd",
+        "qty": 2,
+        "unitPrice": 1864.15
+      },
+      {
+        "sku": "SKU-0054",
+        "name": "Laddare",
+        "qty": 4,
+        "unitPrice": 712.22
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "customerId": 180,
+    "createdAt": "2025-08-14T14:56:54Z",
+    "status": "PAID",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0009",
+        "name": "Tangentbord",
+        "qty": 2,
+        "unitPrice": 308.43
+      },
+      {
+        "sku": "SKU-0281",
+        "name": "Musmatta",
+        "qty": 4,
+        "unitPrice": 1633.1
+      },
+      {
+        "sku": "SKU-0267",
+        "name": "Musmatta",
+        "qty": 2,
+        "unitPrice": 310.82
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "customerId": 159,
+    "createdAt": "2025-03-18T12:00:54Z",
+    "status": "PENDING",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0009",
+        "name": "Skärmskydd",
+        "qty": 3,
+        "unitPrice": 551.1
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "customerId": 168,
+    "createdAt": "2025-01-04T18:25:54Z",
+    "status": "SHIPPED",
+    "currency": "SEK",
+    "items": [
+      {
+        "sku": "SKU-0073",
+        "name": "Laddare",
+        "qty": 1,
+        "unitPrice": 1591.52
+      }
+    ]
+  }
+]
